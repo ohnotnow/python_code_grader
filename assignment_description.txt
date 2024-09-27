@@ -1,0 +1,8 @@
+The assignment is to write a program which will take a directory of python code and provide feedback on the code.
+
+The program should:
+
+1. Read the assignment description and feedback instructions.
+2. Read the code files in the code directory.
+3. Provide feedback on the code files.
+4. Write the feedback to the output directory.
