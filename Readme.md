@@ -21,8 +21,8 @@ This project is a proof-of-concept Python script designed to automatically gener
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/ohnotnow/python_code_grader
+cd python_code_grader
 ```
 
 Set up a virtual environment:
